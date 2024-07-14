@@ -5,12 +5,13 @@
 
 <h3 align="left">Socials:</h3>
 
-<a href="https://twitter.com/Sundar_Das_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishk_twts" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sundar-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-shah-10" height="30" width="40" /></a>
-
+<a href="https://twitter.com/Sundar_Das_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sundar_Das_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sundar-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundar-das" height="30" width="40" /></a>
+<a href="https://twitter.com/Sundar_Das_" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/Strava.png" alt="137479001" height="30" width="40" /></a>
 
 <h3 align="left">Github Stats:</h3>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundarMD&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="SundarMD's GitHub Stats" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SundarMD&theme=default&hide_border=true" alt="SundarMD's GitHub Stats" /></p>
+
