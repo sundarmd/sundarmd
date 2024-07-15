@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Sundar.
 
 🌐 This GitHub is a snapshot of my journey — code snippets, projects and contributions that reflect my commitment & competence. 
-Feel free to explore & do not hesitate to reach out if you have any queries or just want to chat about all things tech!
 
 
 <h3 align="left">Socials:</h3>
