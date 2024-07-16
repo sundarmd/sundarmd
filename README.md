@@ -1,8 +1,5 @@
 ## 👋 Hi there, I'm Sundar.
 
-🌐 This GitHub is a snapshot of my journey — code snippets, projects and contributions that reflect my commitment & competence. 
-
-
 <h3 align="left">Socials:</h3>
 
 <a href="https://www.strava.com/athletes/137479001" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/Strava.png" alt="137479001" height="30" width="40" /></a>
