@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Sundar.
 
-I have a bachedlors degree in Computer Engineering and I'm currently working on my Master Thesis : Generative Data Visualization using Natural Language Processing.
+I have a Bachelors degree in Computer Engineering and I'm currently working on my Master Thesis : Generative Data Visualization using Natural Language Processing.
 
 I am also a working student at Bosch Siemens Home Appliances in Munich, Germany.
 
-If you would like to talk about Data, AI or Software - please reach out to me via any of the below social links.
+If you would like to talk about Data, AI or Software - please reach out to me via any of the below social media links.
 
 <a href="https://www.strava.com/athletes/137479001" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/Strava.png" alt="137479001" height="30" width="40" /></a>
 <a href="https://twitter.com/Sundar_Das_" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="Sundar_Das_" height="30" width="40" /></a>
