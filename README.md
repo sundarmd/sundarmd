@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Sundar.
 
-I have a Bachelors degree in Computer Engineering and I'm currently working on my Master Thesis : Generative Data Visualization through Natural Language Processing.
+I have a Bachelors degree in Computer Engineering
+
+I'm currently working on my Master Thesis :- Generative Data Visualization through Natural Language Processing (LLMs)
 
 I am also a working student at Bosch Siemens Home Appliances in Munich, Germany.
 
