@@ -4,7 +4,7 @@ I have a Bachelors degree in Computer Engineering
 
 I'm currently working on my Master Thesis :- Generative Data Visualization through Natural Language Processing
 
-I am also a working student at Bosch Siemens Home Appliances in Munich, Germany.
+I am also a working student at the Bosch Group in Munich, Germany.
 
 If you would like to talk about Data, AI or Software - please reach out to me via any of the below social media links.
 
