@@ -2,7 +2,7 @@
 
 I have a Bachelors degree in Computer Engineering
 
-I'm currently working on my Master Thesis :- Generative Data Visualization through Natural Language Processing
+I'm currently working on my Master Thesis :- Generative Data Visualization through Large Language Models
 
 I am also a working student at the Bosch Group in Munich, Germany.
 
