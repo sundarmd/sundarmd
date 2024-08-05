@@ -4,7 +4,7 @@ I have a Bachelors degree in Computer Engineering.
 
 I'm currently working on my Master Thesis :- Generative Data Visualization through Large Language Models.
 
-I am also a working student at the Bosch Group in Munich, Germany with theit Data Engineering and Analytics team.
+I am also a working student at the Bosch Group in Munich, Germany with the Data Engineering and Analytics team.
 
 If you would to like to discuss ideas related to LLMS or Data Science - please reach out to me via any of the below social media links.
 
