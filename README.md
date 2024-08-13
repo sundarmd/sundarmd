@@ -2,9 +2,9 @@
 
 I'm currently working on my Master Thesis :- Generative Data Visualization through Large Language Models.
 
-I am also a working student at the Bosch Group in Munich, Germany with the Data and Analytics team.
+I am also a working student at the Bosch Group in Munich, Germany.
 
-If you would to like to discuss ideas related to AI or Data Science - please reach out to me via any of the below social media links.
+If you would to like to discuss ideas related to AI models - please reach out to me via any of the below social media links.
 
 <a href="https://www.strava.com/athletes/137479001" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/Strava.png" alt="137479001" height="30" width="40" /></a>
 <a href="https://twitter.com/Sundar_Das_" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="Sundar_Das_" height="30" width="40" /></a>
