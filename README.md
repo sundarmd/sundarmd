@@ -2,9 +2,9 @@
 
 - currently working on my Master Thesis :- Generative Data Visualization through Large Language Models.
 
-- primarily employed with the Bosch Group in Munich, Germany
+- employed with the Bosch Group in Munich, Germany
 
-- if you would like to talk about ai models / ml / data science / data visualization - you know how to reach me
+- if you would like to talk about ai/ml/statistics - you know how to reach me
 
 
 <a href="https://twitter.com/Sundar_Das_" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="Sundar_Das_" height="30" width="40" /></a>
