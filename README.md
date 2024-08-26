@@ -4,7 +4,7 @@
 
 - primarily employed with the Bosch Group in Munich, Germany
 
-- if you would to like to discuss ideas related to AI models or have a job to offer - please reach out to me via any of the below social media links.
+- if you would like to talk about ai models / ml / data science / data visualization - you know how to reach me
 
 
 <a href="https://twitter.com/Sundar_Das_" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="Sundar_Das_" height="30" width="40" /></a>
