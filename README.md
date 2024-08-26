@@ -2,7 +2,7 @@
 
 - currently working on my Master Thesis :- Generative Data Visualization through Large Language Models.
 
-- employed with the Bosch Group in Munich, Germany
+- primarily employed with the Bosch Group in Munich, Germany
 
 - if you would to like to discuss ideas related to AI models or have a job to offer - please reach out to me via any of the below social media links.
 
