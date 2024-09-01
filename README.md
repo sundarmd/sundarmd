@@ -4,8 +4,7 @@
 
 - talk to me about ai/statistics/memes via Telegram
 
-<a href="https://t.me/Sundar159" target="blank"><img align="center" src="https://raw.githubusercontent.com/SundarMD/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="Sundar_Das_" height="30" width="40" /></a>
-
+[Talk to me on Telegram](https://t.me/Sundar159)
 
 
 
