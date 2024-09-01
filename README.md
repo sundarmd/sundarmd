@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Sundar.
 
-- currently working on my Master Thesis :- Generative Data Visualization through Large Language Models.
+- currently working on Master Thesis :- Generative Data Visualization through Large Language Models.
 
 - talk to me about ai/statistics/memes via X
 
