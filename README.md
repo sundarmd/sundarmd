@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Sundar.
 
-<img  align="right" style="border-radius: 5px;" height="145" src="./Hodaka.gif" />
+<img  align="right" style="border-radius: 5px;" height="200" src="./Hodaka.gif" />
 
 - currently working on Master Thesis :- Generative Data Visualization through Large Language Models.
 
