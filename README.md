@@ -2,9 +2,9 @@
 
 - currently working on Master Thesis :- Generative Data Visualization through Large Language Models.
 
-- talk to me about ml algorithms/ data/ software engineering/ llm based apps/ memes via Telegram
+- solving complex engineering problems 
 
-[Talk to me on Telegram](https://t.me/Sundar159)
+[you can reach me on Telegram](https://t.me/Sundar159)
 
 
 
