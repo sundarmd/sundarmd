@@ -4,7 +4,7 @@
 
 - interests : software engineering/ machine learning algorithms/ ai models/ data visualization
 
-- Hobbies : stand up comedy/ mma/ wrestling
+- hobbies : stand up comedy/ mma/ wrestling
 
 - currently working on master thesis :- Generative Data Visualization through Large Language Models
 
