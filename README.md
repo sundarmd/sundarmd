@@ -4,6 +4,8 @@
 
 - interests : ai models/ data visualization/ software engineering/ machine learning algorithms
 
+- Hobbies : stand up comedy/ mma/ wrestling
+
 - currently working on master thesis :- Generative Data Visualization through Large Language Models
 
 - inspiration : George Hotz, Pieter Levels, David Goggins, Yacine 
