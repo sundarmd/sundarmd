@@ -4,7 +4,7 @@
 
 - this profile is a demonstration of my competence and commitment to excellence.
 
-- going to keep building until I become a 10x engineer
+- on path to become a 10x engineer
 
 - currently working on master thesis :- Generative Data Visualization through Large Language Models
 
