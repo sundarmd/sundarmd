@@ -1,10 +1,14 @@
-## 👋 Hi there, I'm Sundar.
+## 👋 Hi there, I'm Sundar - amateur wrestler and a happy engineer.
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
 - this profile is a demonstration of my competence and commitment to excellence.
 
+- going to keep building until I become a 10x engineer
+
 - currently working on master thesis :- Generative Data Visualization through Large Language Models
+
+- inspiration : George Hotz, Pieter Levels, David Goggins, Yacine 
 
 [you can reach me on Telegram](https://t.me/Sundar159)
 
