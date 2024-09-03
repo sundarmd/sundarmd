@@ -2,7 +2,9 @@
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
-- currently working on Master Thesis :- Generative Data Visualization through Large Language Models.
+- this profile is a demonstration of my competence and commitment to excellence.
+
+- currently working on master thesis :- Generative Data Visualization through Large Language Models
 
 [you can reach me on Telegram](https://t.me/Sundar159)
 
