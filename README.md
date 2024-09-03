@@ -2,7 +2,7 @@
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
-- interests : ai models/ data visualization/ software engineering/ machine learning algorithms
+- interests : software engineering/ machine learning algorithms/ ai models/ data visualization
 
 - Hobbies : stand up comedy/ mma/ wrestling
 
