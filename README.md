@@ -2,9 +2,7 @@
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
-- this profile is a demonstration of my competence and commitment to excellence.
-
-- on path to become a 10x engineer
+- interests : ai models/ data visualization/ software engineering/ machine learning algorithms
 
 - currently working on master thesis :- Generative Data Visualization through Large Language Models
 
