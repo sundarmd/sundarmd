@@ -10,8 +10,9 @@
 
 - inspiration : George Hotz, Pieter Levels, David Goggins, Yacine 
 
-[you can reach me on Telegram](https://t.me/Sundar159)
+[Telegram](https://t.me/Sundar159)
 
+[Mail](mailto:sundardas159@gmail.com)
 
 
 
