@@ -4,8 +4,6 @@
 
 - currently working on Master Thesis :- Generative Data Visualization through Large Language Models.
 
-- solving complex engineering problems 
-
 [you can reach me on Telegram](https://t.me/Sundar159)
 
 
