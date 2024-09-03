@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Sundar - amateur wrestler and a happy engineer.
+## 👋 Hi there, I'm Sundar - amateur wrestler and happy engineer.
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
