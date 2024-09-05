@@ -1,15 +1,18 @@
-## 👋 Hi there, I'm Sundar
+# 👋 Hi there, I'm Sundar
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
 ### Current Focus
 Master's Thesis :- Generative Data Visualization using Large Langauge Models *(Final Stage)*
 
-- interests : software engineering/ machine learning algorithms/ ai models/ data visualization
+### Interests
+Software Engineering • Machine Learning • AI Models • Data Visualization
 
-- hobbies : stand up comedy/ mma/ wrestling
+### Hobbies
+Stand-up Comedy • Mixed Martial Arts (MMA) • Wrestling
 
-- inspiration : George Hotz, Pieter Levels, David Goggins, Yacine 
+### Inspirations
+George Hotz • Pieter Levels • David Goggins • Yacine 
 
 [Telegram](https://t.me/Sundar159) 
 
