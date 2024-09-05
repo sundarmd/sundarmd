@@ -2,11 +2,11 @@
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
+- I like to buld stuff
+
 - interests : software engineering/ machine learning algorithms/ ai models/ data visualization
 
 - hobbies : stand up comedy/ mma/ wrestling
-
-- currently working on master thesis :- Generative Data Visualization through Large Language Models
 
 - inspiration : George Hotz, Pieter Levels, David Goggins, Yacine 
 
