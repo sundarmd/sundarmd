@@ -1,20 +1,27 @@
 ## 👋 Hi there, I'm Sundar
 
-<img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
+<img align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
-- I like to build stuff
+### 🎓 Current Focus
+**Master's Thesis:** Generative Data Visualization using Large Language Models (Final Stage)
 
-- interests : software engineering/ machine learning algorithms/ ai models/ data visualization
+### 💡 Interests
+- Software Engineering
+- Machine Learning Algorithms
+- AI Models
+- Data Visualization
 
-- hobbies : stand up comedy/ mma/ wrestling
+### 🌟 Hobbies
+- Stand-up Comedy
+- Mixed Martial Arts (MMA)
+- Wrestling
 
-- inspiration : George Hotz, Pieter Levels, David Goggins, Yacine 
+### 🚀 Inspirations
+George Hotz | Pieter Levels | David Goggins | Yacine
 
-[Telegram](https://t.me/Sundar159)
-
-[Mail](mailto:sundardas159@gmail.com)
-
-
+### 📫 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sundar159)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundardas159@gmail.com)
 
 
 
