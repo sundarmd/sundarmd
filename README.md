@@ -2,7 +2,7 @@
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
-- **Current Focus** 
+### Current Focus
 Master's Thesis :- Generative Data Visualization using Large Langauge Models *(Final Stage)*
 
 - interests : software engineering/ machine learning algorithms/ ai models/ data visualization
