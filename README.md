@@ -1,4 +1,6 @@
-<img align="right" style="border-radius: 15px;" height="280" src="./Hodaka.gif" />
+<p align="center">
+  <img src="./Hodaka.gif" alt="Hodaka GIF" style="border-radius: 15px;" height="280">
+</p>
 
 # 👋 Hi there, I'm Sundar
 
