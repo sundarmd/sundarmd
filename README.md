@@ -5,13 +5,13 @@
 ### Current Focus
 Master's Thesis :- Generative Data Visualization using Large Langauge Models *(Final Stage)*
 
-- Interests
+### Interests
 Software Engineering • Machine Learning • AI Models • Data Visualization
 
-- Hobbies
+### Hobbies
 Stand-up Comedy • Mixed Martial Arts (MMA) • Wrestling
 
-- Inspirations
+### Inspirations
 George Hotz • Pieter Levels • David Goggins • Yacine 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sundar159)
