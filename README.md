@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sundar
 
-<img align="right" width="400" src="./anime_coding.gif" alt="Coding anime gif">
+<img align="right" width="400" src="./hodaka.gif" alt="Coding anime gif">
 
 ## 🎓 Current Focus
 **Master's Thesis:** Generative Data Visualization using Large Language Models *(Final Stage)*
@@ -20,7 +20,11 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SundarMD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundarMD&layout=compact&langs_count=7&theme=dark"/>
-</a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SundarMD&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundarMD&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
+</div>
