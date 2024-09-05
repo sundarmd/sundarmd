@@ -15,10 +15,7 @@ Master's Thesis :- Generative Data Visualization using Large Langauge Models *(F
 
 [Mail](mailto:sundardas159@gmail.com)
 
-<div align="left">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundarMD&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="SundarMD's GitHub Stats" /></p>
-</div>
-
-<div align="right">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SundarMD&theme=default&hide_border=true&theme=dark" alt="SundarMD's GitHub Stats" /></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundarMD&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="SundarMD's Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SundarMD&theme=dark&hide_border=true" alt="SundarMD's GitHub Streak" width="48%" />
 </div>
