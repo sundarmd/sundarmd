@@ -2,7 +2,7 @@
 
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
-- I like to buld stuff
+- I like to build stuff
 
 - interests : software engineering/ machine learning algorithms/ ai models/ data visualization
 
