@@ -17,5 +17,5 @@
 
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundarMD&theme=dark&hide_border=true&layout=compact&card_width=320&langs_count=6" alt="SundarMD's Top Languages" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SundarMD&theme=dark&hide_border=true&card_width=320&hide_longest_streak=true" alt="SundarMD's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SundarMD&theme=dark&hide_border=true&card_width=320" alt="SundarMD's GitHub Streak" width="49%" />
 </div>
