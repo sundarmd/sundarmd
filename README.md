@@ -10,8 +10,6 @@
 
 ### Languages
 - Python • SQL • Javascript • C++ • C#
-### OS
-- Fedora
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sundar159)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundardas159@gmail.com)
