@@ -6,7 +6,8 @@
 - Master's Thesis : Generative Data Visualization using Large Language Models *(Final Stage)*
 
 ### Skills
-- Software Engineering • Data Engineering • Cloud Native
+- Software Engineering • Data Engineering • Machine Learning
+• Cloud Native
 
 ### Languages
 - Python • SQL • Javascript • C++ • C#
