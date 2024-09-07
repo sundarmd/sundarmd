@@ -5,11 +5,11 @@
 ### Current Focus
 - Master's Thesis : Generative Data Visualization using Large Language Models *(Final Stage)*
 
-### Interests
-- Software Engineering • Machine Learning • AI Models • Data Visualization
+### Skills
+- Software Engineering • Machine Learning • Data Engineering • DevOps • Cloud Native • AI Models • Data Visualization  
 
-### Hobbies
-- Stand-up Comedy • Mixed Martial Arts (MMA) • Wrestling
+### Languages
+- Python • Javascript • C++ • C# • HCL    
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sundar159)
