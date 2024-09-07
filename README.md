@@ -9,7 +9,7 @@
 - Software Engineering • Data Engineering • Cloud Native
 
 ### Languages
-- Python • Javascript • C++ • C# • HCL    
+- Python • SQL • Javascript • C++ • C# 
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sundar159)
