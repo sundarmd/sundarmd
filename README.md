@@ -3,10 +3,10 @@
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
 ### Current Focus
-- Master's Thesis : Generative Data Visualization using Large Language Models *(Final Stage)*
+ Master's Thesis : Generative Data Visualization using Large Language Models <i>(Final Stage)</i>
 
 ### Skills
-- Software Engineering • Data Engineering • Machine Learning
+ Software Engineering • Data Engineering • Machine Learning
 • Cloud Native
 
 ### Languages
