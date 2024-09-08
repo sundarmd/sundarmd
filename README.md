@@ -3,14 +3,14 @@
 <img  align="right" style="border-radius: 5px;" height="280" src="./Hodaka.gif" />
 
 ### Current Focus
- Master's Thesis : Generative Data Visualization using Large Language Models <i>(Final Stage)</i>
+Master's Thesis : Generative Data Visualization using Large Language Models <i>(Final Stage)</i>
 
 ### Skills
- Software Engineering • Data Engineering • Machine Learning
+Software Engineering • Data Engineering • Machine Learning
 • Cloud Native
 
 ### Languages
-- Python • SQL • Javascript • C++ • C#
+Python • SQL • Javascript • C++ • C#
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sundar159)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundardas159@gmail.com)
