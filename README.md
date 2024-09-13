@@ -17,5 +17,5 @@ Python • SQL • Javascript • C++ • C#
 
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundarMD&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="SundarMD's Top Languages" width="48%" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SundarMD&theme=dark&hide_border=true" alt="SundarMD's GitHub Streak" width="48%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SundarMD&theme=dark&hide_border=true" alt="SundarMD's GitHub Streak" width="48%" height="280" />
 </div>
