@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Sundar
 
-<img  align="right" style="border-radius: 5px;" height="480" src="./ding.png" />
-
 ### Current Focus
 Master's Thesis : Generative Data Visualization using Large Language Models <i>(Final Stage)</i>
 
