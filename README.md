@@ -4,7 +4,7 @@
 Master's Thesis : Generative Data Visualization using Large Language Models <i>(Final Stage)</i>
 
 ### Skills
-AI • Machine Learning • Cloud Native
+AI • ML • Cloud Native
 
 ### Languages
 Python • SQL • Javascript • C++ • C#
